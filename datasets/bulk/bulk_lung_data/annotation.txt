@@ -1,0 +1,1 @@
+/home/zyto/unger/ecotyper/example_data/bulk_lung_annotation.txt
