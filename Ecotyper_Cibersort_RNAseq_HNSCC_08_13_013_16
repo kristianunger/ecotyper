@@ -1,0 +1,3 @@
+Rscript EcoTyper_recovery_bulk.R -d Carcinoma -m /project/sequencing/IBG/Quantseq_HNSCC_2013_2016_complete/normalized_counts_RNAseq_Quantseq_2013_2016_210622.txt -a /project/sequencing/IBG/Quantseq_HNSCC_2013_2016_complete/annot_RNAseq_Quantseq_2013_2016_210622.txt -c p16_HPV_DNA,Sex -o RecoveryOutput_HNSCC_2013_2016
+
+Rscript EcoTyper_recovery_bulk.R -d Carcinoma -m /home/zyto/unger/HNSCC_KKG_Luebeck_RNAseq/RNAseq_HNSCC_08_13_TPM_210622.txt -a /home/zyto/unger/HNSCC_KKG_Luebeck_RNAseq/RNAseq_HNSCC_08_13_annotation_210622.txt -c p16_HPV_DNA -o RecoveryOutput_HNSCC_2008_2013

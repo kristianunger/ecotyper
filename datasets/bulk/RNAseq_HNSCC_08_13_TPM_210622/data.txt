@@ -1,0 +1,1 @@
+/home/zyto/unger/HNSCC_KKG_Luebeck_RNAseq/RNAseq_HNSCC_08_13_TPM_210622.txt
